@@ -7,7 +7,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   email: "alanyuan402@gmail.com",
   citizenship: "US Citizen",
   location: "Brooklyn, NY",
-  linkedin: "https://www.linkedin.com/in/alan-yuan/",
+  linkedin: "https://www.linkedin.com/in/alan-yuan-nyit/",
   github: "https://github.com/AlanYuan16",
   portfolio: "https://alan-yuan.vercel.app",
   education: {
